@@ -36,4 +36,4 @@ python app.py
 
 
 
-postgresql://akshay:0WiS0UriWwfnsqwCL2upIirOBBgqVZFt@dpg-dart7ah7lnhs73eoff1g-a.oregon-postgres.render.com/agentmemory_lozm
+
